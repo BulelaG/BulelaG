@@ -1,5 +1,5 @@
 ### Hi there👋, I'm Bulela Gomoshe.
-<div class="align-center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
+<div style="display: flex; justify-content: center;"><img width="50%" height="30%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
 <!--
 **BulelaG/BulelaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
