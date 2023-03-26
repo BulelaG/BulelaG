@@ -1,17 +1,40 @@
-### Hi there👋<br>
-, I'm Bulela Gomoshe.
-<div style="display: flex; justify-content: center; align-items: center;"><img width="30%" height="20%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
-<!--
-**BulelaG/BulelaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center";"><img width="30%" height="20%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
 
+# Hi there!I'm Bulela Gomoshe. 👋
+### I'm a web developer @ <a href="https://gsbsolutionspace.uct.ac.za/">UCT GSB Solution Space</a>.
+                                                                                                                  
+
+## 💻 Technologies
+
+ Some of the technologies I use include:
+
+- Javascript
+- MongoDB
+- HTML 5
+- CSS
+- MySQL
+- VueJS
+- NodeJS
+- Bootstrap
+
+## 🤖Personal Interests
+
+- Heckathons
+- Coding Bootcamps
+- Hiking
+                                                                                                                    
+## 🚀 Future Plans
+
+I'm constantly learning and evolving, so here are some of the things I'm working on:
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Angular,Kotlin,  ...
+- 🌱 I’m currently learning Angular and Python.
 - 👯 I’m looking to collaborate on any project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Learning more programming languages
+- 📫 How to reach me:bulelagomoshe1@gmail.com
+- ⚡ Fun fact: I'm from Cape Town
+- Expanding my knowledge in various fields such as entrepreneurship, data science, and graphic design.
+
+Thanks for stopping by and feel free to ask me anything! 😄
+
+
