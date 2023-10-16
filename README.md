@@ -2,7 +2,7 @@
 <div align="center";"><img width="30%" height="20%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
 
 # Hi there!I'm Bulela Gomoshe. 👋
-### I'm a web developer @ <a href="https://gsbsolutionspace.uct.ac.za/">UCT GSB Solution Space</a>.
+### I'm a web developer/multimdeia designer.
                                                                                                                   
 
 ## 💻 Technologies
