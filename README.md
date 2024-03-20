@@ -19,6 +19,12 @@ As a tech enthusiast, I'm proficient in a variety of technologies including:
 - <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> **Bootstrap**
 - <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> **Angular**
 
+## 🚀 Future Plans & Endeavors
+
+Aspiring to delve deeper into the realms of blockchain and web3.0 development, here's what's on my agenda:
+- <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png"/> **Blockchain Enthusiast**: Exploring the decentralized world of blockchain technology.
+- <img src="https://img.icons8.com/nolan/64/web-design.png"/> **Web3.0 Developer**: Eager to contribute to the evolution of the web towards decentralization.
+
 ## 🤖 Personal Interests
 
 I'm not just about coding; here are some things that captivate me:
@@ -38,4 +44,3 @@ Always striving for growth and innovation, here's what's on my agenda:
 - <img src="https://img.icons8.com/dusk/64/000000/continuous-learning.png"/> **Continuous Learning**: Expanding my expertise in entrepreneurship, data science, and graphic design.
 
 Thank you for visiting! Don't hesitate to reach out with any questions or opportunities. Let's build something awesome together! 😄
-
