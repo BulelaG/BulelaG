@@ -1,41 +1,41 @@
+<div align="center">
+  <img width="30%" height="20%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Greeting GIF">
+</div>
 
-<div align="center";"><img width="30%" height="20%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt=""></div>
+# Hello, I'm Bulela Gomoshe! 👋
+### Passionate Web Developer & Multimedia Designer
 
-# Hi there!I'm Bulela Gomoshe. 👋
-### I'm a web developer/multimedia designer.
-                                                                                                                  
+## 💻 Technologies & Tools
 
-## 💻 Technologies
+As a tech enthusiast, I'm proficient in a variety of technologies including:
 
- Some of the technologies I use include:
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript**
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> **MongoDB**
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> **HTML 5**
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> **CSS**
+- <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/> **MySQL**
+- <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> **Vue.js**
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> **Node.js**
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> **Bootstrap**
+- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> **Angular**
 
-- Javascript
-- MongoDB
-- HTML 5
-- CSS
-- MySQL
-- VueJS
-- NodeJS
-- Bootstrap
-- -Angular
+## 🤖 Personal Interests
 
-## 🤖Personal Interests
+I'm not just about coding; here are some things that captivate me:
+- <img src="https://img.icons8.com/plasticine/100/000000/rocket.png"/> **Hackathons**: I love the rush of creativity and problem-solving they bring.
+- <img src="https://img.icons8.com/dusk/64/000000/code.png"/> **Coding Bootcamps**: Constantly refining my skills and learning from experts.
+- <img src="https://img.icons8.com/office/80/000000/hiking.png"/> **Hiking**: Exploring nature's beauty while clearing my mind.
 
-- Heckathons
-- Coding Bootcamps
-- Hiking
-                                                                                                                    
-## 🚀 Future Plans
+## 🚀 Future Plans & Endeavors
 
-I'm constantly learning and evolving, so here are some of the things I'm working on:
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Angular and Python.
-- 👯 I’m looking to collaborate on any project.
-- 🤔 Learning more programming languages
-- 📫 How to reach me:bulelagomoshe1@gmail.com
-- ⚡ Fun fact: I'm from Cape Town
-- Expanding my knowledge in various fields such as entrepreneurship, data science, and graphic design.
+Always striving for growth and innovation, here's what's on my agenda:
+- <img src="https://img.icons8.com/ios-filled/50/000000/telescope.png"/> **Currently Working On**: Engaging personal projects to push boundaries.
+- <img src="https://img.icons8.com/ios-filled/50/000000/bookmark-ribbon.png"/> **Learning Journey**: Diving deep into Angular and broadening my Python skills.
+- <img src="https://img.icons8.com/ios-glyphs/30/000000/collaboration.png"/> **Open to Collaboration**: Excited to join forces on exciting projects.
+- <img src="https://img.icons8.com/ios-glyphs/30/000000/question-mark.png"/> **Expanding Horizons**: Delving into new programming languages and methodologies.
+- <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png"/> **Reach Me**: Feel free to drop me a line at bulelagomoshe1@gmail.com.
+- <img src="https://img.icons8.com/color/48/000000/lightning-bolt.png"/> **Fun Fact**: Proudly hailing from the vibrant city of Cape Town.
+- <img src="https://img.icons8.com/dusk/64/000000/continuous-learning.png"/> **Continuous Learning**: Expanding my expertise in entrepreneurship, data science, and graphic design.
 
-Thanks for stopping by and feel free to ask me anything! 😄
-
+Thank you for visiting! Don't hesitate to reach out with any questions or opportunities. Let's build something awesome together! 😄
 
